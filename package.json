@@ -1,11 +1,23 @@
 {
   "name": "@mattnick/aws-timestream-easy",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^2.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattnick89/aws-timestream-easy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattnick89/aws-timestream-easy/issues"
+  },
+  "homepage": "https://github.com/mattnick89/aws-timestream-easy#readme",
+  "description": ""
 }
