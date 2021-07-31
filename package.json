@@ -1,5 +1,5 @@
 {
-  "name": "@mattnick/aws-timestream-unmarshall",
+  "name": "@mattnick/aws-timestream-easy",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
