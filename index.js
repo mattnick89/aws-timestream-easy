@@ -25,7 +25,7 @@ class ATP {
                 if(d.res){
                     data.push(d.res)
                 }
-                if(d.error){ err = d.error; qr = false; }
+                if(d.error){ error = d.error; qr = false; }
                 if(!d.next){ qr = false; }
             }
             return resolve({error: error, results: data})
